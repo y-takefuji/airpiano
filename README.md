@@ -18,7 +18,8 @@ If the paper is accepted, the source code will be disclosed.
 
 Hand landmarks detected by MediaPipe are composed of 21 points in 2D image coordinates.
 
-<img src='https://github.com/y-takefuji/airpiano/blob/main/hand_landmarks.png' height=270 width=750 >
+![hand_landmarks](https://github.com/y-takefuji/airpiano/assets/159754486/f6744528-ce37-4aa0-881f-c3f7fb1d185d)
+
 
 https://mediapipe.dev/images/mobile/hand_landmarks.png
 
